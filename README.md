@@ -1,0 +1,2 @@
+# jin
+For Ruby Practice
